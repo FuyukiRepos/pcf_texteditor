@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\pcf_texteditor.pcfproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\pcf_texteditor.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\pcf_texteditor.pcfproj",
+        "projectName": "pcf_texteditor",
+        "projectPath": "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\pcf_texteditor.pcfproj",
+        "packagesPath": "C:\\Users\\AChng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AChng\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

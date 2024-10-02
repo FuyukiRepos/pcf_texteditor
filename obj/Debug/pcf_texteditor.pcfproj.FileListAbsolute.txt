@@ -1,0 +1,2 @@
+C:\Users\AChng\VSCode\pcf_texteditor\obj\Debug\pcf_texteditor.pcfproj.AssemblyReference.cache
+C:\Users\AChng\VSCode\pcf_texteditor\obj\Debug\pcf_texteditor.pcfproj.CoreCompileInputs.cache

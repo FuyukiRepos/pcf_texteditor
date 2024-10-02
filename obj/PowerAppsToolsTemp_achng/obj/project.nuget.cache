@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uO5RMAlYqIPqSvTaLjy0wdstYHZ5e1xV0h66lJEqTIP4otk5Kpx+VAUgyQP6ihKtBtqsUDNL0o5d1cl9WoFFfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\obj\\PowerAppsToolsTemp_achng\\PowerAppsToolsTemp_achng.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.35.1\\microsoft.powerapps.msbuild.pcf.1.35.1.nupkg.sha512",
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.35.1\\microsoft.powerapps.msbuild.solution.1.35.1.nupkg.sha512"
+  ],
+  "logs": []
+}

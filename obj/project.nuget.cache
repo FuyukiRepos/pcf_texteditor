@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbOnOZlh5J5WVcGzIE/qFRtP+Ll+WoLgP+03qwdLbmY7QHGxGFsJKWGFGVBOgqAFLRyeUtOAjudn2y18biJFTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AChng\\VSCode\\pcf_texteditor\\pcf_texteditor.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\AChng\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.35.1\\microsoft.powerapps.msbuild.pcf.1.35.1.nupkg.sha512"
+  ],
+  "logs": []
+}

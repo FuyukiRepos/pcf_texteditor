@@ -35,7 +35,6 @@
       <css path="skins/content/default/content.css" order="1" />
       <css path="skins/ui/oxide/content.min.css" order="1" />
       <css path="skins/ui/oxide/skin.min.css" order="1" />
-      <css path="skins/ui/oxide/content.css" order="1" />
       <css path="skins/ui/oxide/skin.css" order="1" />
       <!-- UNCOMMENT TO ADD MORE RESOURCES
       <css path="css/pcftexteditor.css" order="1" />
